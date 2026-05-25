@@ -19,7 +19,7 @@ async function sendMessage(){
   try{
 
     const response = await fetch(
-      "https://YOUR-RENDER-URL.onrender.com/chat",
+      "https://pocketdev-ai-2.onrender.com",
       {
         method:"POST",
         headers:{
